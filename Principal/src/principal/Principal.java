@@ -17,5 +17,6 @@ public class Principal {
         // TODO code application logic here
         JOptionPane.showMessageDialog(null, "alert", "alert", JOptionPane.ERROR_MESSAGE);
         System.out.println("Jesus :D");
+        System.out.println("Maria :D");
     }
 }
