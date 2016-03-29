@@ -16,5 +16,6 @@ public class Principal {
     public static void main(String[] args) {
         // TODO code application logic here
         JOptionPane.showMessageDialog(null, "alert", "alert", JOptionPane.ERROR_MESSAGE);
+        System.out.println("Jesus :D");
     }
 }
